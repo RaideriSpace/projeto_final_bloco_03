@@ -1,0 +1,44 @@
+:root {
+  /* ========================================
+   * Cores
+   * ========================================
+   */
+
+  --primary-ex-light: #7d9357;
+  --primary-light: #5f703d;
+  --primary: #485922;
+  --primary-dark: #334016;
+  --primary-ex-dark: #1a200b;
+
+  --secondary-ex-light: #f4e6cf;
+  --secondary-light: #e5d4af;
+  --secondary: #d9bd8b;
+  --secondary-dark: #b99d6b;
+  --secondary-ex-dark: #8c7043;
+  --secondary-ex-dark-opacity: #8c704385;
+
+  --tertiary-ex-light: #a97d68;
+  --tertiary-light: #8e5c48;
+  --tertiary: #734230;
+  --tertiary-dark: #522f22;
+  --tertiary-ex-dark: #2a1810;
+  --tertiary-ex-dark-opacity: #2a181085;
+
+  --auxiliary-ex-light: #f57d7d;
+  --auxiliary-light: #f24848;
+  --auxiliary: #f20505;
+  --auxiliary-dark: #b00404;
+  --auxiliary-ex-dark: #5a0202;
+  --auxiliary-ex-dark-opacity: #5a020285;
+
+  --dark-ex-light: #3d3d3d;
+  --dark-light: #1f1f1f;
+  --dark: #0d0d0d;
+  --dark-dark: #050505;
+  --dark-ex-dark: #000000;
+  --dark-dark-opacity: #00000085;
+
+  --white: #ffffff;
+  --black: #000000;
+  --alert: #f20505;
+}
